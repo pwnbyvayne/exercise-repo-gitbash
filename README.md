@@ -1,6 +1,5 @@
 # exercise-repo-gitbash
 repoforexersice
  adding some features
-
-this will resolve conflict.
+extars for the main branch.
  
